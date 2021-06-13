@@ -24,11 +24,9 @@ class Solution:
 
 #                   Bad complement
 # class Solution:
-#     def diStringMatch(self, s: str) -> list:
+#     def diStringMatch(self, s: str) -> list[int]:
 #         string = list(s)
-#         #string = ['I', 'D', 'I', 'D']
 #         num = [i for i in range(len(string)+1)]
-#         #num = [0, 1, 2, 3, 4]
 #         output_list = []
 #         for i in range(len(string)):
 #             if string[i] == "I":
