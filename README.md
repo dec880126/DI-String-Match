@@ -1,2 +1,2 @@
 # DI-String-Match
-Leetcode--Easy
+Leetcode -> Easy
